@@ -1,0 +1,2 @@
+# Uncommon Loop Control Error in Java
+This repository demonstrates a subtle bug in Java loop control that can easily be overlooked. The code intends to skip the number 5 in the output but instead skips the number 5 and continues.  The solution shows how to correctly handle this scenario using a 'break' statement instead of 'continue'.
